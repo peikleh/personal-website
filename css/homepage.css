@@ -1,8 +1,36 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+
 .center {
 	margin : auto;
-	width: 60%;
-	color:grey;
+	width: 30em;
+	color:#535353;
 	padding: 10px;
 	text-align: center;
 	font-family: Arial;
+}
+.name {
+  color:#a366ff;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-linkedin {
+  background: #535353;
+  color: white;
+}
+
+.fa-github {
+	background : #535353;
+	color : white;
 }
